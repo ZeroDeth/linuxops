@@ -11,7 +11,7 @@ type: Document
 
 # Ansible for Full Stack Deployment
 
-Ansible is an automation engine similar to Chef or Puppet, that can be used to ensure deployment and configuration consistency across many servers,
+Ansible is an automation engine similar to Chef or Puppet, that can be used to ensure deployment and configuration consistency across many servers,&nbsp;
 
 [TOC]
 
@@ -19,7 +19,7 @@ Ansible is an automation engine similar to Chef or Puppet, that can be used to e
 
 ### Linux
 
-- ​The SysAdmin's Guide to Python
+- The SysAdmin's Guide to Python
 <br>- Python Scripting for DevOps
 
 # Creating Ansible Lab Servers
@@ -28,7 +28,7 @@ Ansible is an automation engine similar to Chef or Puppet, that can be used to e
 
 ### [Initial Server Setup with CentOS 7](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-centos-7)
 
-### [Install and Configure Ansible on CentOS 7 Server](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-centos-7)
+### &nbsp;[Install and Configure Ansible on CentOS 7 Server](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-ansible-on-centos-7)
 
 ## Primary Server
 
