@@ -1,74 +1,53 @@
-# ----
-# Site
-
 title: LinuxOps
-url: "https://LinuxOps.co.uk/"
+url: 'https://LinuxOps.co.uk/'
 baseurl:
 google_analytics_key:
 disqus_shortname:
 newsletter_action:
-
-# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: DevOps Culture.
+description: DevOps Culture
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: Sherif Moneim
+  email: sherif@hosty.uk
+  twitter: ZeroDeth
 social:
   name: Base Template
   links:
-    - https://github.com/CloudCannon/base-jekyll-template
-
-# -----
-# Build
-
-permalink: /:categories/:title/
-
+    - 'https://github.com/CloudCannon/base-jekyll-template'
+permalink: '/:categories/:title/'
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-archives
-
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
   - LICENCE
-
 collections:
   sets:
-
-
 jekyll-archives:
-  enabled: ['categories']
-
+  enabled:
+    - categories
 defaults:
-  -
-    scope:
-      path: ""
+  - scope:
+      path:
     values:
-      layout: "default"
-  -
-    scope:
-      type: "posts"
+      layout: default
+  - scope:
+      type:
     values:
-      layout: "post"
+      layout: post
       comments: true
-  -
-    scope:
-      type: "sets"
+  - scope:
+      type:
     values:
       _hide_content: true
-  -
-    scope:
-      path: "index.html"
+  - scope:
+      path: index.html
     values:
-      body_class: "show_hero_search"
-# -----------
-# CloudCannon
-
+      body_class: show_hero_search
 social_icons:
   - Facebook
   - Google Plus
@@ -80,9 +59,7 @@ social_icons:
   - YouTube
   - Email
   - RSS
-
 types:
   - Document
   - Video
-
 _comments:
