@@ -1,10 +1,6 @@
 - name: Blog
   link: /blog/
+- name: Projects
+  link: /projects/
 - name: About
   link: /about/
-- name: Tutorials
-  link: /
-- name: Videos
-  link: /videos/
-- name: FAQ
-  link: /faq/
