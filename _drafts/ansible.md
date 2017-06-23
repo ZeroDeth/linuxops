@@ -11,7 +11,9 @@ type: Document
 
 # Ansible for Full Stack Deployment
 
-Ansible is an automation engine similar to Chef or Puppet, that can be used to ensure deployment and configuration consistency across many servers,&nbsp;
+Ansible is an automation engine similar to Chef or Puppet, that can be used to ensure deployment and configuration consistency across many servers,
+
+[TOC]
 
 ## Prerequisities
 
