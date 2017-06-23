@@ -2,7 +2,7 @@ title: LinuxOps
 url: 'https://LinuxOps.co.uk/'
 baseurl:
 google_analytics_key:
-disqus_shortname:
+disqus_shortname: LinuxOps
 newsletter_action:
 logo: /siteicon.png
 description: DevOps Culture
